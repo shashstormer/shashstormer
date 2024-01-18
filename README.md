@@ -20,14 +20,14 @@ Well hello there I am Shashank Patil ,a student who lives in India. I go by name
 <b>Github Stats</b>
 </h3>
 <div align='center'>
-	<a href='https://github.com/shashstorm'>
+	<a href='https://github.com/shashstormer'>
 		<img width="49.5%" src='https://github-readme-stats.vercel.app/api?username=shashstormer&show_icons=true&theme=github_dark&hide_border=true'>
 		<img width="49.5%" src='https://github-readme-streak-stats.herokuapp.com?user=shashstormer&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D'>
 	</a>
 </div>
 <br>
 <div align='center'>
-	<a href='https://github.com/shashstorm'>
+	<a href='https://github.com/shashstormer'>
 	<img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashstormer&show_icons=true&layout=compact&theme=github_dark&hide_border=true">
 	</a>
 </div>
