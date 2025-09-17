@@ -66,7 +66,7 @@ I mostly build and publish on [shashstorm.in](https://shashstorm.in), but you’
 - **Email:** shashanka5398@gmail.com
 - **Stack Overflow:** [shashstormer](https://stackoverflow.com/users/20704877/shashstormer)
 - **Twitter/X:** [@shashstormer](https://twitter.com/shashstormer)
-- **LinkedIn:** [Shashank Patil](https://www.linkedin.com/in/shashank-patil/)
+- **LinkedIn:** [Shashank Patil](https://www.linkedin.com/in/shashstormer/)
 
 ---
 
