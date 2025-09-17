@@ -43,7 +43,7 @@ I mostly build and publish on [shashstorm.in](https://shashstorm.in), but you’
 
 ### 💻 Tech Stack
 
-- **Languages:** Python, HTML, JavaScript, a sprinkle of Docker and CSS
+- **Languages:** Python, ReactJS, NextJS, tailwindcss, HTML, JavaScript, a sprinkle of Docker and CSS
 - **Interests:** Open source, automation, Linux, code experiments, and learning new tools
 
 ---
