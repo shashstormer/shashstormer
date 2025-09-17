@@ -51,8 +51,8 @@ I mostly build and publish on [shashstorm.in](https://shashstorm.in), but you’
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-shashstorm.vercel.app/api?username=shashstormer&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
-  <img width="49%" src="https://github-readme-streak-stats-shashstorm.vercel.app/?user=shashstormer&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
+  <img width="49%" src="https://github-readme-stats-shashstorm.vercel.app/api?username=shashstormer&show_icons=true&theme=github_dark&hide_border=true&t=1" alt="GitHub Stats">
+  <img width="49%" src="https://github-readme-streak-stats-shashstorm.vercel.app/?user=shashstormer&theme=github-dark-blue&hide_border=true&t=1" alt="GitHub Streak">
 </p>
 <p align="center">
   <img width="49%" src="https://github-readme-stats-shashstorm.vercel.app/api/top-langs/?username=shashstormer&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages">
